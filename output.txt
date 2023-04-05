@@ -1,0 +1,16 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\exceptioninjava>  & 'C:\Program Files\Java\jdk-17\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\tolic\AppData\Roaming\Code\User\workspaceStorage\665a829637b8d3db3de3e678ae155beb\redhat.java\jdt_ws\exceptioninjava_e01eec1e\bin' 'wordcountcalculator' 
+Enter your String:
+My name is akanksha Iam from ongole!
+Iam : 1
+name : 1
+ongole! : 1
+is : 1
+from : 1
+akanksha : 1
+My : 1
+PS C:\exceptioninjava> 
